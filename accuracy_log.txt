@@ -1,0 +1,13 @@
+Batch,Correct,Accuracy(%),Time(s)
+Batch 0 [Batch 0] Accuracy=83/100 (83.000%) Time=2382.660 s
+Batch 1 [Batch 1] Accuracy=84/100 (84.000%) Time=2375.208 s
+Batch 2 [Batch 2] Accuracy=78/100 (78.000%) Time=2384.797 s
+Batch 3 [Batch 3] Accuracy=83/100 (83.000%) Time=2412.159 s
+Batch 4 [Batch 4] Accuracy=78/100 (78.000%) Time=2384.244 s
+Batch 5 [Batch 5] Accuracy=81/100 (81.000%) Time=2419.924 s
+Batch 6 [Batch 6] Accuracy=76/100 (76.000%) Time=2383.175 s
+Batch 7 [Batch 7] Accuracy=78/100 (78.000%) Time=2423.475 s
+Batch 8 [Batch 8] Accuracy=75/100 (75.000%) Time=2382.321 s
+Batch 9 [Batch 9] Accuracy=79/100 (79.000%) Time=2382.305 s
+===================================
+Total correct: 795 / 1000
