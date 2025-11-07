@@ -1,0 +1,1772 @@
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #3
+Evaluation class is made !!! 
+[INFO] Running batch 0 (samples 0 ~ 99)
+[Batch 0] Accuracy=83/100 (83.000%) Time=2382.660 s
+Average per-sample layer time (s):
+  Encryption: 2.725
+  Conv: 17.942
+  ReLU: 0.766
+  Pool: 0.614
+  Flatten: 0.000
+  FC: 1.778
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #4
+Evaluation class is made !!! 
+[INFO] Running batch 1 (samples 100 ~ 199)
+[Batch 1] Accuracy=84/100 (84.000%) Time=2375.208 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 17.891
+  ReLU: 0.765
+  Pool: 0.611
+  Flatten: 0.000
+  FC: 1.758
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #4
+Evaluation class is made !!! 
+[INFO] Running batch 2 (samples 200 ~ 299)
+[Batch 2] Accuracy=78/100 (78.000%) Time=2384.797 s
+Average per-sample layer time (s):
+  Encryption: 2.728
+  Conv: 17.950
+  ReLU: 0.776
+  Pool: 0.611
+  Flatten: 0.000
+  FC: 1.782
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #1
+Evaluation class is made !!! 
+[INFO] Running batch 3 (samples 300 ~ 399)
+[Batch 3] Accuracy=83/100 (83.000%) Time=2412.159 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 18.208
+  ReLU: 0.769
+  Pool: 0.621
+  Flatten: 0.000
+  FC: 1.796
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #1
+Evaluation class is made !!! 
+[INFO] Running batch 4 (samples 400 ~ 499)
+[Batch 4] Accuracy=78/100 (78.000%) Time=2384.244 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 17.960
+  ReLU: 0.775
+  Pool: 0.612
+  Flatten: 0.000
+  FC: 1.767
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #1
+Evaluation class is made !!! 
+[INFO] Running batch 5 (samples 500 ~ 599)
+[Batch 5] Accuracy=81/100 (81.000%) Time=2419.924 s
+Average per-sample layer time (s):
+  Encryption: 2.725
+  Conv: 18.282
+  ReLU: 0.764
+  Pool: 0.628
+  Flatten: 0.000
+  FC: 1.799
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #2
+Evaluation class is made !!! 
+[INFO] Running batch 6 (samples 600 ~ 699)
+[Batch 6] Accuracy=76/100 (76.000%) Time=2383.175 s
+Average per-sample layer time (s):
+  Encryption: 2.730
+  Conv: 17.931
+  ReLU: 0.775
+  Pool: 0.611
+  Flatten: 0.000
+  FC: 1.783
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #2
+Evaluation class is made !!! 
+[INFO] Running batch 7 (samples 700 ~ 799)
+[Batch 7] Accuracy=78/100 (78.000%) Time=2423.475 s
+Average per-sample layer time (s):
+  Encryption: 2.727
+  Conv: 18.309
+  ReLU: 0.761
+  Pool: 0.629
+  Flatten: 0.000
+  FC: 1.807
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #2
+Evaluation class is made !!! 
+[INFO] Running batch 8 (samples 800 ~ 899)
+[Batch 8] Accuracy=75/100 (75.000%) Time=2382.321 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 17.935
+  ReLU: 0.773
+  Pool: 0.616
+  Flatten: 0.000
+  FC: 1.772
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #3
+Evaluation class is made !!! 
+[INFO] Running batch 9 (samples 900 ~ 999)
+[Batch 9] Accuracy=79/100 (79.000%) Time=2382.305 s
+Average per-sample layer time (s):
+  Encryption: 2.728
+  Conv: 17.936
+  ReLU: 0.771
+  Pool: 0.607
+  Flatten: 0.000
+  FC: 1.780
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #6
+Evaluation class is made !!! 
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[INFO] Running batch 0 (samples 0 ~ 99)
+[Batch 0] Accuracy=78/100 (78.000%) Time=1086.428 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 6.346
+  ReLU: 0.370
+  Pool: 0.353
+  Flatten: 0.000
+  FC: 1.069
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #6
+Evaluation class is made !!! 
+[INFO] Running batch 1 (samples 100 ~ 199)
+[Batch 1] Accuracy=83/100 (83.000%) Time=1080.443 s
+Average per-sample layer time (s):
+  Encryption: 2.728
+  Conv: 6.293
+  ReLU: 0.377
+  Pool: 0.350
+  Flatten: 0.000
+  FC: 1.055
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[INFO] Running batch 2 (samples 200 ~ 299)
+[Batch 2] Accuracy=85/100 (85.000%) Time=1085.842 s
+Average per-sample layer time (s):
+  Encryption: 2.729
+  Conv: 6.332
+  ReLU: 0.372
+  Pool: 0.350
+  Flatten: 0.000
+  FC: 1.074
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[INFO] Running batch 3 (samples 300 ~ 399)
+[Batch 3] Accuracy=85/100 (85.000%) Time=1079.240 s
+Average per-sample layer time (s):
+  Encryption: 2.727
+  Conv: 6.277
+  ReLU: 0.373
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.065
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #8
+Evaluation class is made !!! 
+[INFO] Running batch 4 (samples 400 ~ 499)
+[Batch 4] Accuracy=74/100 (74.000%) Time=1086.222 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 6.334
+  ReLU: 0.371
+  Pool: 0.351
+  Flatten: 0.000
+  FC: 1.079
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[INFO] Running batch 5 (samples 500 ~ 599)
+[Batch 5] Accuracy=72/100 (72.000%) Time=1080.514 s
+Average per-sample layer time (s):
+  Encryption: 2.730
+  Conv: 6.301
+  ReLU: 0.362
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.062
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #6
+Evaluation class is made !!! 
+[INFO] Running batch 6 (samples 600 ~ 699)
+[Batch 6] Accuracy=72/100 (72.000%) Time=1081.223 s
+Average per-sample layer time (s):
+  Encryption: 2.725
+  Conv: 6.304
+  ReLU: 0.367
+  Pool: 0.351
+  Flatten: 0.000
+  FC: 1.064
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #6
+Evaluation class is made !!! 
+[INFO] Running batch 7 (samples 700 ~ 799)
+[Batch 7] Accuracy=83/100 (83.000%) Time=1076.848 s
+Average per-sample layer time (s):
+  Encryption: 2.725
+  Conv: 6.267
+  ReLU: 0.370
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.057
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[INFO] Running batch 8 (samples 800 ~ 899)
+[Batch 8] Accuracy=81/100 (81.000%) Time=1077.266 s
+Average per-sample layer time (s):
+  Encryption: 2.726
+  Conv: 6.262
+  ReLU: 0.377
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.058
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #4
+Evaluation class is made !!! 
+[INFO] Running batch 9 (samples 900 ~ 999)
+[Batch 9] Accuracy=72/100 (72.000%) Time=1080.367 s
+Average per-sample layer time (s):
+  Encryption: 2.725
+  Conv: 6.290
+  ReLU: 0.374
+  Pool: 0.352
+  Flatten: 0.000
+  FC: 1.061
+  Argmax: 0.001
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+./main: error while loading shared libraries: libFHE16_Module.so: cannot open shared object file: No such file or directory
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #16
+Evaluation class is made !!! 
+[INFO] Running batch 0
+[Batch 0] Accuracy=79/100 (79.000%) Time=1021.516 s
+Avg layer times (s):
+  Enc: 2.731  Conv: 5.754  ReLU: 0.369  Pool: 0.342  Flat: 0.000  FC: 1.019  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[INFO] Running batch 1
+[Batch 1] Accuracy=82/100 (82.000%) Time=1026.691 s
+Avg layer times (s):
+  Enc: 2.733  Conv: 5.785  ReLU: 0.374  Pool: 0.353  Flat: 0.000  FC: 1.020  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #16
+Evaluation class is made !!! 
+[INFO] Running batch 2
+[Batch 2] Accuracy=85/100 (85.000%) Time=1021.594 s
+Avg layer times (s):
+  Enc: 2.732  Conv: 5.748  ReLU: 0.373  Pool: 0.347  Flat: 0.000  FC: 1.015  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #16
+Evaluation class is made !!! 
+[INFO] Running batch 3
+[Batch 3] Accuracy=84/100 (84.000%) Time=1022.767 s
+Avg layer times (s):
+  Enc: 2.731  Conv: 5.758  ReLU: 0.368  Pool: 0.350  Flat: 0.000  FC: 1.019  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[INFO] Running batch 4
+[Batch 4] Accuracy=74/100 (74.000%) Time=1025.977 s
+Avg layer times (s):
+  Enc: 2.731  Conv: 5.784  ReLU: 0.376  Pool: 0.352  Flat: 0.000  FC: 1.016  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #16
+Evaluation class is made !!! 
+[INFO] Running batch 5
+[Batch 5] Accuracy=71/100 (71.000%) Time=1023.357 s
+Avg layer times (s):
+  Enc: 2.731  Conv: 5.765  ReLU: 0.375  Pool: 0.348  Flat: 0.000  FC: 1.013  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[INFO] Running batch 6
+[Batch 6] Accuracy=72/100 (72.000%) Time=1023.257 s
+Avg layer times (s):
+  Enc: 2.734  Conv: 5.765  ReLU: 0.372  Pool: 0.345  Flat: 0.000  FC: 1.016  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[INFO] Running batch 7
+[Batch 7] Accuracy=82/100 (82.000%) Time=1023.473 s
+Avg layer times (s):
+  Enc: 2.730  Conv: 5.763  ReLU: 0.373  Pool: 0.353  Flat: 0.000  FC: 1.015  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #16
+Evaluation class is made !!! 
+[INFO] Running batch 8
+[Batch 8] Accuracy=80/100 (80.000%) Time=1021.052 s
+Avg layer times (s):
+  Enc: 2.730  Conv: 5.743  ReLU: 0.372  Pool: 0.348  Flat: 0.000  FC: 1.017  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #19
+Evaluation class is made !!! 
+[INFO] Running batch 9
+[Batch 9] Accuracy=74/100 (74.000%) Time=1021.335 s
+Avg layer times (s):
+  Enc: 2.731  Conv: 5.744  ReLU: 0.378  Pool: 0.349  Flat: 0.000  FC: 1.011  Arg: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 0] Accuracy=7/100 (7.000%) Time=1860.539 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.731
+  Conv: 13.460
+  ReLU: 0.374
+  Pool: 0.351
+  Flatten: 0.000
+  FC: 1.688
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #20
+Evaluation class is made !!! 
+[Batch 1] Accuracy=9/100 (9.000%) Time=1864.298 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.734
+  Conv: 13.475
+  ReLU: 0.381
+  Pool: 0.353
+  Flatten: 0.000
+  FC: 1.698
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 2] Accuracy=7/100 (7.000%) Time=1859.566 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.729
+  Conv: 13.456
+  ReLU: 0.371
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.690
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 3] Accuracy=9/100 (9.000%) Time=1859.987 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.731
+  Conv: 13.455
+  ReLU: 0.367
+  Pool: 0.352
+  Flatten: 0.000
+  FC: 1.694
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 4] Accuracy=9/100 (9.000%) Time=1862.416 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.734
+  Conv: 13.469
+  ReLU: 0.374
+  Pool: 0.352
+  Flatten: 0.000
+  FC: 1.693
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 5] Accuracy=11/100 (11.000%) Time=1861.720 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.729
+  Conv: 13.469
+  ReLU: 0.374
+  Pool: 0.349
+  Flatten: 0.000
+  FC: 1.694
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #19
+Evaluation class is made !!! 
+[Batch 6] Accuracy=8/100 (8.000%) Time=1865.018 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.730
+  Conv: 13.480
+  ReLU: 0.376
+  Pool: 0.357
+  Flatten: 0.000
+  FC: 1.705
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[Batch 7] Accuracy=10/100 (10.000%) Time=1864.792 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.730
+  Conv: 13.494
+  ReLU: 0.377
+  Pool: 0.352
+  Flatten: 0.000
+  FC: 1.693
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #19
+Evaluation class is made !!! 
+[Batch 8] Accuracy=11/100 (11.000%) Time=1863.106 s
+[Diff] FHE vs Plain label mismatch: 1 / 100
+Average per-sample layer time (s):
+  Encryption: 2.731
+  Conv: 13.461
+  ReLU: 0.370
+  Pool: 0.358
+  Flatten: 0.000
+  FC: 1.709
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 9] Accuracy=13/100 (13.000%) Time=1859.256 s
+[Diff] FHE vs Plain label mismatch: 0 / 100
+Average per-sample layer time (s):
+  Encryption: 2.729
+  Conv: 13.451
+  ReLU: 0.367
+  Pool: 0.352
+  Flatten: 0.000
+  FC: 1.693
+  Argmax: 0.001
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 0] Accuracy=4/100 (4.000%) Time=1276.409 s
+[Diff] FHE vs Plain label mismatch: 95 / 100
+Average per-sample layer time (s):
+  Encryption: 1.722
+  Conv: 9.416
+  ReLU: 0.217
+  Pool: 0.336
+  Flatten: 0.000
+  FC: 1.072
+  Argmax: 0.001
+[LOG] batch=0  acc=4  diff=95  time=1276.409s  acc%=4.000  diff%=95.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 1] Accuracy=5/100 (5.000%) Time=1281.314 s
+[Diff] FHE vs Plain label mismatch: 93 / 100
+Average per-sample layer time (s):
+  Encryption: 1.722
+  Conv: 9.442
+  ReLU: 0.219
+  Pool: 0.345
+  Flatten: 0.000
+  FC: 1.084
+  Argmax: 0.001
+[LOG] batch=1  acc=5  diff=93  time=1281.314s  acc%=5.000  diff%=93.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 2] Accuracy=5/100 (5.000%) Time=1277.442 s
+[Diff] FHE vs Plain label mismatch: 96 / 100
+Average per-sample layer time (s):
+  Encryption: 1.722
+  Conv: 9.409
+  ReLU: 0.220
+  Pool: 0.339
+  Flatten: 0.000
+  FC: 1.084
+  Argmax: 0.001
+[LOG] batch=2  acc=5  diff=96  time=1277.442s  acc%=5.000  diff%=96.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 3] Accuracy=3/100 (3.000%) Time=1284.209 s
+[Diff] FHE vs Plain label mismatch: 95 / 100
+Average per-sample layer time (s):
+  Encryption: 1.720
+  Conv: 9.482
+  ReLU: 0.220
+  Pool: 0.337
+  Flatten: 0.000
+  FC: 1.081
+  Argmax: 0.001
+[LOG] batch=3  acc=3  diff=95  time=1284.209s  acc%=3.000  diff%=95.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 4] Accuracy=4/100 (4.000%) Time=1280.517 s
+[Diff] FHE vs Plain label mismatch: 96 / 100
+Average per-sample layer time (s):
+  Encryption: 1.724
+  Conv: 9.450
+  ReLU: 0.216
+  Pool: 0.335
+  Flatten: 0.000
+  FC: 1.080
+  Argmax: 0.001
+[LOG] batch=4  acc=4  diff=96  time=1280.517s  acc%=4.000  diff%=96.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 5] Accuracy=5/100 (5.000%) Time=1277.706 s
+[Diff] FHE vs Plain label mismatch: 95 / 100
+Average per-sample layer time (s):
+  Encryption: 1.723
+  Conv: 9.429
+  ReLU: 0.216
+  Pool: 0.342
+  Flatten: 0.000
+  FC: 1.066
+  Argmax: 0.001
+[LOG] batch=5  acc=5  diff=95  time=1277.706s  acc%=5.000  diff%=95.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 6] Accuracy=6/100 (6.000%) Time=1277.532 s
+[Diff] FHE vs Plain label mismatch: 95 / 100
+Average per-sample layer time (s):
+  Encryption: 1.722
+  Conv: 9.419
+  ReLU: 0.224
+  Pool: 0.333
+  Flatten: 0.000
+  FC: 1.076
+  Argmax: 0.001
+[LOG] batch=6  acc=6  diff=95  time=1277.532s  acc%=6.000  diff%=95.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #20
+Evaluation class is made !!! 
+[Batch 7] Accuracy=6/100 (6.000%) Time=1278.028 s
+[Diff] FHE vs Plain label mismatch: 94 / 100
+Average per-sample layer time (s):
+  Encryption: 1.722
+  Conv: 9.419
+  ReLU: 0.217
+  Pool: 0.335
+  Flatten: 0.000
+  FC: 1.087
+  Argmax: 0.001
+[LOG] batch=7  acc=6  diff=94  time=1278.028s  acc%=6.000  diff%=94.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #17
+Evaluation class is made !!! 
+[Batch 8] Accuracy=2/100 (2.000%) Time=1276.226 s
+[Diff] FHE vs Plain label mismatch: 99 / 100
+Average per-sample layer time (s):
+  Encryption: 1.724
+  Conv: 9.405
+  ReLU: 0.219
+  Pool: 0.334
+  Flatten: 0.000
+  FC: 1.079
+  Argmax: 0.001
+[LOG] batch=8  acc=2  diff=99  time=1276.226s  acc%=2.000  diff%=99.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #18
+Evaluation class is made !!! 
+[Batch 9] Accuracy=3/100 (3.000%) Time=1280.102 s
+[Diff] FHE vs Plain label mismatch: 94 / 100
+Average per-sample layer time (s):
+  Encryption: 1.723
+  Conv: 9.436
+  ReLU: 0.220
+  Pool: 0.343
+  Flatten: 0.000
+  FC: 1.080
+  Argmax: 0.001
+[LOG] batch=9  acc=3  diff=94  time=1280.102s  acc%=3.000  diff%=94.000%
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #1
+Evaluation class is made !!! 
+[Batch 0] Accuracy=85/100 (85.000%) Diff=1/100 Time=1755.006 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[Batch 1] Accuracy=82/100 (82.000%) Diff=1/100 Time=1763.542 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #5
+Evaluation class is made !!! 
+[Batch 2] Accuracy=82/100 (82.000%) Diff=1/100 Time=1768.424 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #2
+Evaluation class is made !!! 
+[Batch 3] Accuracy=74/100 (74.000%) Diff=2/100 Time=1762.878 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #1
+Evaluation class is made !!! 
+[Batch 4] Accuracy=75/100 (75.000%) Diff=0/100 Time=1758.995 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #4
+Evaluation class is made !!! 
+[Batch 5] Accuracy=75/100 (75.000%) Diff=0/100 Time=1757.542 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #3
+Evaluation class is made !!! 
+[Batch 6] Accuracy=74/100 (74.000%) Diff=2/100 Time=1762.960 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #10
+Evaluation class is made !!! 
+[Batch 7] Accuracy=76/100 (76.000%) Diff=1/100 Time=1758.816 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #4
+Evaluation class is made !!! 
+[Batch 8] Accuracy=83/100 (83.000%) Diff=0/100 Time=1759.742 s
+Before Const!!
+Qne addition is applied !!! should be fix it
+Qne addition is applied !!! should be fix it
+END !! = 163603457
+NTT Param16 is gen !! 
+param_len a is 2
+param_len b is 1
+NTT Param is made !!!
+MatMul Assigning ...
+16bit Key Gen!
+Rot called !! 
+AAA
+Rot Gen 16bit END !!!
+EVGINX Gen 16bit END !!!
+KS Gen 16bit END !!!
+ACC Gen 16bit END !!!
+Phy Counts: #24
+1 NUMa is unavalable ! should be search it 
+Phy Counts: #24
+My Id: #2
+Evaluation class is made !!! 
+[Batch 9] Accuracy=75/100 (75.000%) Diff=0/100 Time=1760.792 s

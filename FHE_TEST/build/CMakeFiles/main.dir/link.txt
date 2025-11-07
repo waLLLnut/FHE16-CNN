@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/yj/FHE_TEST/lib /home/yj/FHE_TEST/lib/libFHE16.so /home/yj/FHE_TEST/lib/libFHE16_Module.so /usr/lib/x86_64-linux-gnu/libnuma.so 
