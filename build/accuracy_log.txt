@@ -1,1 +1,26 @@
 Batch,Correct,Accuracy(%),Diff,Time(s)
+[Batch 0] Accuracy=82/100 (82%) Diff=0/100 Time=1690.32 s
+Batch 0 [Batch 0] Accuracy=82/100 (82.000%) Diff=0/100 Time=1690.317 s
+[Batch 1] Accuracy=90/100 (90%) Diff=0/100 Time=1689.29 s
+Batch 1 [Batch 1] Accuracy=90/100 (90.000%) Diff=0/100 Time=1689.291 s
+[Batch 2] Accuracy=84/100 (84%) Diff=0/100 Time=1695.83 s
+Batch 2 [Batch 2] Accuracy=84/100 (84.000%) Diff=0/100 Time=1695.826 s
+[Batch 3] Accuracy=80/100 (80%) Diff=0/100 Time=1684.01 s
+Batch 3 [Batch 3] Accuracy=80/100 (80.000%) Diff=0/100 Time=1684.014 s
+[Batch 4] Accuracy=74/100 (74%) Diff=0/100 Time=1689.19 s
+Batch 4 [Batch 4] Accuracy=74/100 (74.000%) Diff=0/100 Time=1689.188 s
+[Batch 5] Accuracy=72/100 (72%) Diff=0/100 Time=1688.08 s
+Batch 5 [Batch 5] Accuracy=72/100 (72.000%) Diff=0/100 Time=1688.078 s
+[Batch 6] Accuracy=72/100 (72%) Diff=0/100 Time=1683.91 s
+Batch 6 [Batch 6] Accuracy=72/100 (72.000%) Diff=0/100 Time=1683.911 s
+[Batch 7] Accuracy=78/100 (78%) Diff=0/100 Time=1694.37 s
+Batch 7 [Batch 7] Accuracy=78/100 (78.000%) Diff=0/100 Time=1694.375 s
+[Batch 8] Accuracy=78/100 (78%) Diff=0/100 Time=1696.88 s
+Batch 8 [Batch 8] Accuracy=78/100 (78.000%) Diff=0/100 Time=1696.884 s
+[Batch 9] Accuracy=70/100 (70%) Diff=0/100 Time=1702.77 s
+Batch 9 [Batch 9] Accuracy=70/100 (70.000%) Diff=0/100 Time=1702.772 s
+===================================
+Total correct: 780 / 1000
+Total diff: 0 / 1000
+Total accuracy: 78.00%
+Total diff rate: 0.00%

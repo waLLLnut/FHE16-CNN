@@ -17,7 +17,7 @@
 using namespace std;
 
 using Cipher = int32_t*;
-static constexpr int MSG_BIT = 20; // Can be adjusted to prevent potential overflow.    
+static constexpr int MSG_BIT = 32; // Can be adjusted to prevent potential overflow.    
 
 // --- Parameter settings  ---
 static constexpr int IN_H=28, IN_W=28; // MNIST size
@@ -38,7 +38,6 @@ Cipher get_zero() {
 inline Cipher mul_scalar_opt(Cipher c, int32_t w){
     if(w==0) return get_zero();
     if(w==1) return c;
-    if(w==-1) return FHE16_SUB(get_zero(),c);
     return FHE16_SMULL_CONSTANT(c,w);
 }
 // Make fuction more intuitively

@@ -81,7 +81,7 @@ def main():
     ap.add_argument("--epochs", type=int, default=3)
     ap.add_argument("--batch-size", type=int, default=128)
     ap.add_argument("--lr", type=float, default=1e-3)
-    ap.add_argument("--out-dir", default="./export_csv_stride3")
+    ap.add_argument("--out-dir", default="./export_csv")
     ap.add_argument("--scale", type=int, default=64)
     ap.add_argument("--num-workers", type=int, default=2)
     args = ap.parse_args()
