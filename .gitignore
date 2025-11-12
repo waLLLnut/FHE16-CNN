@@ -1,3 +1,4 @@
 # ignore dataset and build folders
 data/
 mnist_batch/
+build/
