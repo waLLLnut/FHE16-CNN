@@ -17,6 +17,7 @@ python train_mnist_fhe_cnn.py --epochs 15
 #### build essentials
 ```bash
 sudo apt install libjemalloc2
+sudo apt install libnuma-dev
 ```
 
 #### Download MNIST samples
