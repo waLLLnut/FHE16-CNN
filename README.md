@@ -24,6 +24,15 @@ sudo apt install libjemalloc2
 python export_mnist_samples.py
 ```
 
+#### Build
+```bash
+mkdir build
+mv run_all.sh build/
+cd build
+cmake ..
+make
+```
+
 #### Set library path (required before running)
 ```bash
 echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:../FHE_TEST/lib' >> ~/.bashrc
@@ -32,13 +41,9 @@ source ~/.bashrc
 
 #### Run the executables
 ```bash
-mkdir build
-mv run_all.sh build/
-cd build
-cmake ..
-make
 ./test          # Inference for a single MNIST sample
 ./run_all.sh    # Run inference for 1000 MNIST samples (divided into 10 batches)
                  # Results will be saved to accuracy_log.txt
 ```
+
 
