@@ -1,1 +1,0 @@
-/usr/bin/c++ -fopenmp CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/yj/FHECNN/../FHE_TEST/lib /home/yj/FHECNN/../FHE_TEST/lib/libFHE16.so /home/yj/FHECNN/../FHE_TEST/lib/libFHE16_Module.so /usr/lib/x86_64-linux-gnu/libnuma.so 

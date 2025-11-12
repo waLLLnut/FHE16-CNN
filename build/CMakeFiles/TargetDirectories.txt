@@ -1,4 +1,0 @@
-/home/yj/FHECNN/build/CMakeFiles/main.dir
-/home/yj/FHECNN/build/CMakeFiles/test.dir
-/home/yj/FHECNN/build/CMakeFiles/edit_cache.dir
-/home/yj/FHECNN/build/CMakeFiles/rebuild_cache.dir
