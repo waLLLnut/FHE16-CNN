@@ -54,9 +54,9 @@ source ~/.bashrc
 Click below to view each version of the report:
 
 ### English Version
-👉 [**FHE16 CNN Report (English, PDF)**](./docs/FHE16_CNN_Report_EN.pdf)
+👉 [**FHE16 CNN Report (English, PDF)**](./docs/FHE16 CNN_english.pdf.pdf)
 
 ### Korean Version
-👉 [**FHE16 CNN Report (Korean, PDF)**](./docs/FHE16_CNN_Report_KR.pdf)
+👉 [**FHE16 CNN Report (Korean, PDF)**](./docs/FHE16 CNN_korean.pdf.pdf)
 
 
