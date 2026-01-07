@@ -33,3 +33,8 @@ add_executable(test ${CMAKE_CURRENT_SOURCE_DIR}/test.cpp)
 target_include_directories(test PRIVATE ${FHE16_INCLUDE_DIRS})
 target_link_libraries(test PRIVATE ${FHE16_LIBS} ${NUMA_LIB})
 
+# === hybrid 실행파일 추가 (마지막 N개 레이어만 FHE) ===
+add_executable(hybrid ${CMAKE_CURRENT_SOURCE_DIR}/hybrid_inference.cpp)
+target_include_directories(hybrid PRIVATE ${FHE16_INCLUDE_DIRS})
+target_link_libraries(hybrid PRIVATE ${FHE16_LIBS} ${NUMA_LIB})
+
